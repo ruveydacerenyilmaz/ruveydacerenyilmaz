@@ -5,7 +5,6 @@
 📫 How to reach me **ruveydacerenyilmaz@gmail.com**
 
 <h3 align="left"> 💬 Connect with me:</h3>
-📫  **ruveydacerenyilmaz@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ruveydacerenyilmaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruveydacerenyilmaz/" height="30" width="40" /></a>
 <a href="https://medium.com/@ruveydacerenyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ruveydacerenyilmaz" height="30" width="40" /></a>
@@ -20,6 +19,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
       </p>
       </td>
+ <h3 align="left">✔️GitHub Analytics</h3>
         <td style="width: 441;" align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruveydacerenyilmaz&theme=dracula&layout=compact&langs_count=10" />
         </td>
