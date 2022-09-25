@@ -14,12 +14,12 @@
 <h3 align="left">Languages and Tools:</h3>
   <tr style="height: 18px;">
     <td style="width: 441; height: 18px;">
-      <p align="center"> 
+      <p align="left"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
       </p>
-  </td>
+      </td>
         <td style="width: 441;" align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruveydacerenyilmaz&theme=dracula&layout=compact&langs_count=10" />
         </td>
