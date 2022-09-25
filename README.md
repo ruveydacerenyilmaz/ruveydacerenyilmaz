@@ -23,8 +23,6 @@
   <p align="center" >
 <a href="https://github.com/ruveydacerenyilmaz">
  <img height="150em" align:"center"  src=""https://github-readme-stats.vercel.app/api/top-langs/?username=ruveydacerenyilmaz&theme=dracula&layout=compact&langs_count=10" /></a>
-  <a href="https://github.com/ruveydacerenyilmaz"><img height="150em" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruveydacerenyilmaz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ruveydacerenyilmaz&count_private=true&show_icons=true&theme=dracula" /></p>
