@@ -26,3 +26,5 @@
       <img height="150em" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruveydacerenyilmaz&layout=compact&langs_count=8&theme=algolia"/>
 
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ruveydacerenyilmaz &label=Profile%20views&color=0e75b6&style=flat" /></p>
+</div>
