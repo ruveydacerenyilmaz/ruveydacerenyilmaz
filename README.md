@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rüveyda Ceren Yılmaz</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruveydacerenyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ruveydacerenyilmaz" /> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **ruveydacerenyilmaz@gmail.com**
@@ -26,3 +24,4 @@
         <td style="width: 441;" align="center" >
             <img src="https://github-readme-stats.vercel.app/api?username=ruveydacerenyilmaz&count_private=true&show_icons=true&theme=dracula"/>
         </td> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ruveydacerenyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ruveydacerenyilmaz" /> </p>
