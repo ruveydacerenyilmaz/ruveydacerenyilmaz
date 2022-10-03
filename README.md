@@ -22,6 +22,6 @@
  <h3 align="left">✔️GitHub Analytics</h3>
 <p align="center" >
 <a href="https://github.com/ruveydacerenyilmaz">
-      <img height="150em" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruveydacerenyilmaz&layout=compact&langs_count=8&theme=algolia"/>
+      <img height="200px" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruveydacerenyilmaz&layout=compact&langs_count=8&theme=algolia"/>
 
 
