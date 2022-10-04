@@ -19,9 +19,5 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
       </p>
       </td>
- <h3 align="left">✔️GitHub Analytics</h3>
-<p align="center" >
-<a href="https://github.com/ruveydacerenyilmaz">
-      <img height="125em" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruveydacerenyilmaz&layout=compact&langs_count=8&theme=algolia"/>
-
+ 
 
