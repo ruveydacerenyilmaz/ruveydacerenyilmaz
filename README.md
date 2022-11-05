@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rüveyda Ceren Yılmaz</h1>
+<h1 align="center">Hi 👋, I'm Ruveyda Ceren Yilmaz</h1>
 
 🌱 I’m currently learning **Python** 
 
