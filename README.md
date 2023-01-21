@@ -19,4 +19,4 @@
       </p>
       </td>
  
-![snake gif](https://github.com/ruveydacerenyilmaz/ruveydacerenyilmaz/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ruveydacerenyilmaz/ruveydacerenyilmaz/blob/output/github-contribution-grid-snake.svg)
